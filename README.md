@@ -34,7 +34,7 @@ Hey there! This is a simple Windows app for figuring out how much solar panels w
 - **No Surprises**: We show all the costs upfront.
 - **Fast Results**: Get your answer in a flash.
 
-Enjoy figuring out your solar panel costs with our app! 😄
+Enjoy figuring out your solar panel costs with our app! 
 
 ---
 
