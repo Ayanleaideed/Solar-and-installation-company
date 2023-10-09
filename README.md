@@ -1,6 +1,5 @@
 
 # Rideau Solar Panel Calculator
-[Demo, 
 
 https://github.com/Ayanleaideed/Solar-and-installation-company/assets/116397906/79307bfd-d2c0-4731-9023-8ef6a786b83b
 
